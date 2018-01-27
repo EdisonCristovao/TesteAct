@@ -1,0 +1,7 @@
+Configurando banco de dados para primeira iniciação
+    Adicionado ao poom a dependencia do conector mysql
+
+Modelo Questao
+     Migration criada
+     modelo criado Questao
+     Repository criado
