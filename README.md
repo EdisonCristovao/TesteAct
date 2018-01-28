@@ -54,3 +54,12 @@ heroku config
 heroku logs --tail
 
 git clone https://github.com/algaworks/curso-angular-rest-spring-boot-api.git
+
+spring.jpa.database=MYSQL
+spring.datasource.url=jdbc:mysql://localhost/testeact?createDatabaseIfNotExist=true&useSSL=false
+spring.datasource.username=root
+spring.datasource.password=12345
+
+spring.jpa.show-sql=true
+
+spring.jackson.deserialization.fail-on-unknown-properties=true
